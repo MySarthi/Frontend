@@ -2,7 +2,7 @@ import React from 'react'
 
 const BookSlot = () => {
   return (
-    <div className='text-xl'> This is BookSlot Page </div>
+    <div className='text-xl'> This is MakeTrip Page </div>
   )
 }
 
