@@ -1,6 +1,6 @@
 import React from 'react';
 import  { useState } from 'react';
-import HotelList from '../components/Hotels_Rooms/HotelList';
+import HotelList from '../../components/Hotels_Rooms/HotelList';
 
   
   const DiscoverIndia = () => {

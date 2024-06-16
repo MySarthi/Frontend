@@ -1,0 +1,112 @@
+.landing-page {
+    width: 1512px;
+    height: 982px;
+    overflow: hidden;
+    background: #FFFFFF;
+  }
+  .landing-page .layer-3 {
+    position: absolute;
+    top: 21.89%;
+    left: 1.19%;
+    right: -0.07%;
+    bottom: -74.03%;
+  }
+  .landing-page .saarthi {
+    position: absolute;
+    top: 317px;
+    left: calc(100% - 1512px + 568px);
+    width: 364px;
+    height: 57px;
+    color: #000000;
+    white-space: nowrap;
+    font-family: "PlayfairDisplayRoman-SemiBold";
+    font-size: 48px;
+    line-height: 56.16px;
+    letter-spacing: 27.84px;
+  }
+  .landing-page .frame-57 {
+    position: absolute;
+    top: 50px;
+    left: calc(100% - 1512px + 640px);
+    width: 232px;
+    height: 232px;
+    box-shadow: 6px 10px 8.4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 62px;
+    overflow: hidden;
+    background: #FFFFFF;
+  }
+  .landing-page .frame-57 .asset-2-1 {
+    position: absolute;
+    top: calc(100% - 232px + 5px);
+    left: calc(100% - 232px + 85.71px);
+    width: 162.91px;
+    height: 161.41px;
+    transform-origin: 0 0;
+    transform: rotate(30deg);
+    object-fit: cover;
+  }
+  .landing-page .rectangle-14 {
+    position: absolute;
+    top: 434px;
+    left: 346px;
+    width: 819px;
+    height: 113px;
+    border-radius: 37px;
+    background: #D9D9D9;
+  }
+  .landing-page .rectangle-15 {
+    position: absolute;
+    top: 582px;
+    left: 346px;
+    width: 819px;
+    height: 113px;
+    border-radius: 37px;
+    background: #D9D9D9;
+  }
+  .landing-page .frame-3 {
+    position: absolute;
+    top: 763px;
+    left: calc(100% - 1512px + 681px);
+    width: 149px;
+    height: 60px;
+    border-radius: 24px;
+    overflow: hidden;
+    background: #1B03A3;
+  }
+  .landing-page .frame-3 .login {
+    position: absolute;
+    top: 16px;
+    left: 43px;
+    width: 65px;
+    height: 29px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-family: "RalewayRoman-Regular";
+    font-size: 24px;
+    line-height: 28.08px;
+  }
+  .landing-page .enter-username {
+    position: absolute;
+    top: 467px;
+    left: 403px;
+    width: 305px;
+    height: 47px;
+    color: #000000;
+    white-space: nowrap;
+    font-family: "RalewayRoman-Regular";
+    font-size: 40px;
+    line-height: 46.8px;
+  }
+  .landing-page .enter-password {
+    position: absolute;
+    top: 615px;
+    left: 403px;
+    width: 292px;
+    height: 47px;
+    color: #000000;
+    white-space: nowrap;
+    font-family: "RalewayRoman-Regular";
+    font-size: 40px;
+    line-height: 46.8px;
+  }
+  
