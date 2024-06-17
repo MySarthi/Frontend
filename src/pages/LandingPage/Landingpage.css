@@ -1,0 +1,112 @@
+.landing-page {
+    width: 1512px;
+    height: 982px;
+    overflow: hidden;
+    background: #FFFFFF;
+  }
+  .landing-page .frame-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1512px;
+    height: 473px;
+    border-radius: 0px 0px 70px 70px;
+    overflow: hidden;
+  }
+  .landing-page .frame-1 .unsplashwtbjpqu-0vq {
+    position: absolute;
+    top: -277px;
+    left: -165px;
+    width: 1920px;
+    height: 1280px;
+    object-fit: cover;
+  }
+  .landing-page .frame-1 .rectangle-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1512px;
+    height: 473px;
+    border-radius: 0px 0px 70px 70px;
+    background: linear-gradient(210deg, rgba(10, 0, 68, 0) 0%, #1900aa 100%);
+  }
+  .landing-page .frame-2 {
+    position: absolute;
+    top: calc(100% - 982px + 324px);
+    left: calc(100% - 1512px + 606px);
+    width: 300px;
+    height: 299px;
+  }
+  .landing-page .frame-2 .rectangle-2 {
+    position: absolute;
+    top: calc(100% - 299px + 0px);
+    left: calc(100% - 300px + 1px);
+    width: 299px;
+    height: 299px;
+    box-shadow: 5px 5px 107px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 89px;
+    background: #FFFFFF;
+  }
+  .landing-page .frame-2 .asset-2-1 {
+    position: absolute;
+    top: calc(100% - 299px + 42px);
+    left: calc(100% - 300px + 41px);
+    width: 218px;
+    height: 216px;
+    object-fit: cover;
+  }
+  .landing-page .saarthi {
+    position: absolute;
+    top: 623px;
+    left: calc(100% - 1512px + 381px);
+    width: 727px;
+    height: 113px;
+    color: #000000;
+    white-space: nowrap;
+    font-family: "PlayfairDisplayRoman-SemiBold";
+    font-size: 96px;
+    line-height: 112.32px;
+    letter-spacing: 55.68px;
+  }
+  .landing-page .one-stop-for-all-tours {
+    position: absolute;
+    top: 783px;
+    left: calc(100% - 1512px + 597px);
+    width: 324px;
+    height: 38px;
+    color: #000000;
+    white-space: nowrap;
+    font-family: "RalewayRoman-ExtraLight";
+    font-size: 32px;
+    line-height: 37.44px;
+  }
+  .landing-page .frame-3 {
+    position: absolute;
+    top: 853px;
+    left: calc(100% - 1512px + 650px);
+    width: 203px;
+    height: 60px;
+    border-radius: 24px;
+    overflow: hidden;
+    background: #1B03A3;
+  }
+  .landing-page .frame-3 .get-started {
+    position: absolute;
+    top: 16px;
+    left: 29px;
+    width: 128px;
+    height: 29px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-family: "RalewayRoman-Regular";
+    font-size: 24px;
+    line-height: 28.08px;
+  }
+  .landing-page .frame-3 .icon-iconoir-arrow-right {
+    position: absolute;
+    top: 20px;
+    left: 167px;
+    width: 24px;
+    height: 24px;
+  }
+  
