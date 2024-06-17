@@ -6,4 +6,4 @@ const BookSlot = () => {
   )
 }
 
-export default BookSlot
+export default BookSlot;
